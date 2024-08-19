@@ -1,6 +1,6 @@
 # Composite Design Pattern
 
-The Adapter design pattern is a structural design pattern. It allows incompatible interfaces to work with each other by turning one interface into an object so that those aiming to collaborate can understand the interface. An adapter is also referred to as a wrapper because it envelops the object, hiding the complexity of conversions happening between interfaces and objects. This way, the wrapped object remains unaware of the adapter.
+The composite design pattern is a structural design pattern also known as the object tree design pattern. It composes objects to form a tree structure and provides the ability to use individual objects within the tree structure.
 
 # Uml Diagram
 
