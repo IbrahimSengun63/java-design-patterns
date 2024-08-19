@@ -4,7 +4,7 @@ The Prototype design pattern is a creational design pattern. It provides the abi
 
 # Uml Diagram
 
-![diagra](./images/uml_diagram.png)
+![diagra](./images/diagram.png)
 
 
 # When To Use
